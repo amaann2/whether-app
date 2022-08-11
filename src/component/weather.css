@@ -1,0 +1,32 @@
+.weather{
+    border: 2px solid black;
+    height: 400px;
+    width: 400px;
+    text-align: center;
+    margin:80px auto ;
+    padding: 30px;
+    background-color: pink;
+}
+.heading{
+    font-size: 30px;
+}
+.cityinput{
+    width: 300px;
+    border: none;
+    height: 40px;
+    border-radius: 10px;
+    padding: 20px;
+    font-size:20px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+}
+.info{
+    text-align: center;
+}
+.info .city{
+    text-align: center;
+    margin: 20px 0px 20px 0px;
+    font-size: 30px;
+}
